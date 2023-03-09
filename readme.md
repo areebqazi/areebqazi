@@ -1,9 +1,9 @@
+![68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966](https://user-images.githubusercontent.com/66074608/224107954-9878773b-8814-4f97-b640-686db58994f6.gif)
+
 <h1 align="center">Hi 👋, I'm Mohd Areeb</h1>
 <h3 align="center">Passionate about DSA and Web Development, constantly learning and growing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areebqazi&label=Profile%20views&color=0e75b6&style=flat" alt="areebqazi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areebqazi" alt="areebqazi" /></a> </p>
 
 - 🌱 I’m currently learning **DSA , React JS and Node JS**
 
